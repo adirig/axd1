@@ -7,7 +7,7 @@ package axd1;
 
 /**
  *
- * @author anthonyd
+ * @author axd
  */
 public class AXD1 {
     

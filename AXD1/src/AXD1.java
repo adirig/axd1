@@ -23,8 +23,8 @@ public class AXD1 {
         SignCharacteristics signTwo = new SignCharacteristics("Twinkle Little Star");
         signTwo.printSign();
         
-        SignCharacteristics signThree = new SignCharacteristics("Twinkle Little Star 3");
-        signThree.printSign();
+        SignCharacteristics signThrees = new SignCharacteristics("Twinkle Little Star 3");
+        signThrees.printSign();
         
     }
     

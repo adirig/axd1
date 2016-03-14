@@ -18,6 +18,10 @@ public class AXD1 {
         // TODO code application logic here
         SignCharacteristics signOne = new SignCharacteristics("Golden Sun");
         signOne.printSign();
+        
+        SignCharacteristics signTwo = new SignCharacteristics("Twinkle Little Star");
+        signTwo.printSign();
+        
     }
     
     

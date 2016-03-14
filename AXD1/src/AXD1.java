@@ -15,12 +15,16 @@ public class AXD1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
         // TODO code application logic here
         SignCharacteristics signOne = new SignCharacteristics("Golden Sun");
         signOne.printSign();
         
         SignCharacteristics signTwo = new SignCharacteristics("Twinkle Little Star");
         signTwo.printSign();
+        
+        SignCharacteristics signThree = new SignCharacteristics("Twinkle Little Star 3");
+        signThree.printSign();
         
     }
     
